@@ -1,0 +1,8 @@
+﻿  AVHandler.cpp
+c:\users\nitesh\source\repos\nbvivedecode\nbvivedecode\decoderffmpeg.h(9): fatal error C1083: Cannot open include file: 'libavformat\avformat.h': No such file or directory
+  DecoderFFmpeg.cpp
+c:\users\nitesh\source\repos\nbvivedecode\nbvivedecode\decoderffmpeg.h(9): fatal error C1083: Cannot open include file: 'libavformat\avformat.h': No such file or directory
+  DX11TextureObject.cpp
+  Logger.cpp
+  ViveMediaDecoder.cpp
+  Generating Code...
